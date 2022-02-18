@@ -31,3 +31,7 @@ body {
 .cabecalho__logo {
     width: 100px;
 }
+
+main {
+    padding: 20px;
+}
